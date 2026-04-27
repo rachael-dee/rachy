@@ -10,7 +10,7 @@ layout: default
 
 <img src="static/imgs/image1.png" width = "500">
 
-<img src="static/imgs/imag2.png" width = "500">
+<img src="static/imgs/image2.png" width = "500">
 
 <img src="static/imgs/image3.png" width = "500">
 
