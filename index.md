@@ -8,12 +8,11 @@ layout: default
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 <img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
-<img src="image1.png" width = "500">
+<img src="image.png" width = "500">
 
-<img src="image2.png" width = "500">
-.
-<img src="image3.png" width = "500">
+<img src="![alt text](<Screenshot 2026-04-27 144132.png>)" width = "500">
 
+<img src="![alt text](<Screenshot 2026-04-27 144100 (3).png>)" width = "500">
 
 ## Analyzed by Rachael Dee and Bella Hocker
 
